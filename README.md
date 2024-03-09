@@ -5,5 +5,8 @@ First of all, the video from the moment you start the program until it ends is s
 
 When you press the space bar, recording starts and the text 'Recording...' is displayed on the screen.
 If you press the space bar again in that state, recording stops and the recorded video is saved under the name 'record.avi'.
+(https://github.com/HLife15/CV_Video_Recorder/assets/162321808/39cf4ebb-aa70-4a02-adab-558eee08cf06)
+
 This program also includes Brightness and contrast adjustment functions have been added.
 You can adjust the contrast with the '+' and '-' keys, and the brightness with the ']' and '[' keys.
+(https://github.com/HLife15/CV_Video_Recorder/assets/162321808/316b9e5f-be4f-4334-8ee0-10491e079f83)
