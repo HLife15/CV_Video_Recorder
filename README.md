@@ -1,4 +1,4 @@
-# CV_video_recorder
+# CV_Video_Recorder
 This is video recorder made in OpenCV.
 First of all, the video from the moment you start the program until it ends is saved under the name 'camera.avi'.
 (https://github.com/HLife15/CV_Video_Recorder/assets/162321808/6077d15e-e3b5-468a-aa7a-75e3abf3380b)
